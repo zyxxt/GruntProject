@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/zyxxt/GruntProject/issues"
   },
-  "homepage": "https://github.com/zyxxt/GruntProject"
+  "homepage": "https://github.com/zyxxt/GruntProject",
+
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-tabtospace": "*",
+    "grunt-contrib-jshint": "0.9.2"
+  }
 }
